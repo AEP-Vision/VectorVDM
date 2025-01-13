@@ -4,6 +4,7 @@ VectorEP is a software upgrade designed to transform Vector into an emotionally 
 ---
 
 ### **[Download VectorEP 0.0.1a]()**
+<sup>0.01a is almost done, I apologize for the delay. The download button will not work until I complete and publish the software.</sup>
 
 ---
 
