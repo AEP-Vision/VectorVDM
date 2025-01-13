@@ -3,8 +3,7 @@ VectorEP is a software upgrade designed to transform Vector into an emotionally 
 
 ---
 
-## **Download**
-You can download VectorEP as soon as we are finished with the software. We are working very hard to complete development of the open beta.
+### **[Download VectorEP 0.0.1a]()**
 
 ---
 
