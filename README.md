@@ -146,5 +146,4 @@ VectorEP is a software upgrade designed to transform Vector into an emotionally 
 
 ---
 
-This documentation ensures a seamless user experience and highlights the potential of VectorEP. Enjoy interacting with your smarter, more lifelike Vector!
-
+<sup>© 2025 IceliteAI. IceliteAI is not affiliated with Digital Dream Labs, Ultraviolet, or Y8 Games.</sup>
