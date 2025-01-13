@@ -1,5 +1,3 @@
-# VectorEP Docs
-
 ## **Overview**
 VectorEP is a software upgrade designed to transform Vector into an emotionally intelligent and interactive companion. By integrating OpenAI's GPT-4, emotional state management, and dynamic conversational capabilities, this program provides Vector with lifelike behaviors and advanced AI-driven interactions.
 
