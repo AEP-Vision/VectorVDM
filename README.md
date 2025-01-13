@@ -31,7 +31,7 @@ VectorEP is a software upgrade designed to transform Vector into an emotionally 
 - **Splash Screens**: Displays custom images during startup for a polished and engaging experience.
 - **Eye Color Customization**: Adjusts eye color based on emotional state and user preferences.
 
-### 5. Developer Mode
+### 5. Development Mode
 - **Code Execution**: Allows on-the-fly Python code creation and execution.
 - **Safe Exit**: Exits development mode and deletes temporary programs when done.
 
@@ -94,17 +94,17 @@ VectorEP is a software upgrade designed to transform Vector into an emotionally 
 - Vector's emotional state changes based on interactions:
   - Positive commands (e.g., jokes, compliments): Vector becomes happy.
   - Negative or confusing commands: Vector becomes neutral or sad.
-  - Errors or low battery: Vector expresses sadness.
+  - Errors: Vector expresses sadness.
 
 ---
 
 ## **Advanced Features**
 
-### 1. Developer Mode
+### 1. Development Mode
 - **Activation**:
   - Say: "Enter development mode."
 - **Usage**:
-  - Provide a description of the program to be generated.
+  - Provide a description of the program to be generated and executed.
   - Example: "Create a Python program that makes Vector say 'Hello World!' repeatedly."
 - **Exit**:
   - Say: "Exit development mode."
@@ -119,24 +119,21 @@ VectorEP is a software upgrade designed to transform Vector into an emotionally 
 - Verify the API keys are correctly configured.
 
 ### 2. How do I reset the emotional state?
-- Interact with Vector using positive commands or let him idle for 10 minutes.
+- Interact with Vector using positive commands.
 
 ### 3. Can I add more emotional states?
 - Yes, modify the `emotional_state` logic to add more states and define triggers.
-
-### 4. How can I customize eye colors?
-- Adjust the `set_eye_color` parameters for hue and saturation in the `update_visual_state` function.
 
 ---
 
 
 ## **Future Enhancements**
 
-1. **Voice Recognition**:
+1. **User Recognition**:
    - Enable personalized responses based on user identity.
 
 2. **Improved Emotional Range**:
-   - Add more nuanced states like excitement, curiosity, or boredom.
+   - Add more emotional states like excitement, curiosity, or boredom.
 
 3. **Integration with Smart Devices**:
    - Allow Vector to control smart home devices.
