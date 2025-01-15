@@ -1,1 +1,1 @@
-## VectorVDM Docs
+© 2025 IceliteAI
