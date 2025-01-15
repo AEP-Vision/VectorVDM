@@ -1,5 +1,3 @@
-# VectorVDM - Documentation
-
 ## What is VectorVDM?
 VectorVDM (Vocal Development Mode) is a unique tool that lets you control your Anki/DDL Vector robot with simple voice or text commands. It uses advanced technology from OpenAI GPT-4 to turn your instructions into Python code, run it on the robot, and explain what the code does. It’s perfect for anyone, whether you’re just starting out or already experienced.
 
@@ -75,3 +73,4 @@ VectorVDM is ideal for:
 - **Teachers**: Introduce coding in an engaging and fun way.
 - **Developers**: Quickly experiment and test ideas with Vector.
 
+© 2025 IceliteAI
