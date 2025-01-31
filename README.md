@@ -1,1 +1,1 @@
-check connectivity: [check.txt](/api/connect/check.txt)
+check connectivity: [check.txt](/api/connect/check)
