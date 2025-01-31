@@ -1,1 +1,1 @@
-### Powered by [IceliteAI](https://icelite.net)
+### IceliteAI API check
